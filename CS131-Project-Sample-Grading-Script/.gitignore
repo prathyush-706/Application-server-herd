@@ -1,0 +1,10 @@
+
+nohup.out
+sample_submission/server.py
+*.pyc
+others/ports_config.py
+others/namelist.tab
+*.txt
+*.log
+sample_submission/report.pdf
+sample_submission/server_buggy.py
